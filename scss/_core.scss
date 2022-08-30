@@ -1,5 +1,6 @@
 // base icon class definition
 // -------------------------
+@use "sass:list";
 
 .#{$fa-css-prefix} {
   font-family: var(--#{$fa-css-prefix}-style-family, '#{$fa-style-family}');
